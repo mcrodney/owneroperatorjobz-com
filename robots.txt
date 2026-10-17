@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://owneroperatorjobz.com/sitemap.xml
